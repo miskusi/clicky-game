@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://miskusi.github.io/index.html/",
+  "homepage": "https://miskusi.github.io/clicky-game/index.html/",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
